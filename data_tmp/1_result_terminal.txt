@@ -1,0 +1,14 @@
+ 
+#########################################
+#      Starting reduce observation      #
+#########################################
+ 
+The total number of lines in the file ../data_tmp/../data_tmp/all_together_1.csv is:
+20000
+ 
+It was removed 17125 points
+ 
+##########################################
+# Thank you for using reduce observation #
+##########################################
+ 
